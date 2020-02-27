@@ -1,3 +1,5 @@
+![hyper-zsh-configuration](https://i.imgur.com/aBABdu8.png)
+
 # hyper-zsh-configuration
 
 1. Install [OhMyZsh](https://ohmyz.sh/)
